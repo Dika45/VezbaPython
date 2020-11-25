@@ -1,2 +1,2 @@
 # VezbaPython
-DikinaVezbaPajton
+Pocetna vezba paython
